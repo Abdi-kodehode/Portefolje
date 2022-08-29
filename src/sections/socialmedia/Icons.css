@@ -7,7 +7,6 @@
     position: fixed;
     right: 0;
     margin-right: 1.5rem;
-    z-index: -1;
 }
 
 .iconBar a {
