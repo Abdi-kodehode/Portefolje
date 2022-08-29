@@ -1,6 +1,6 @@
 #projectsSection p {
     max-width: 700px;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
 }
 
 .projectContainer {
@@ -16,6 +16,7 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    padding: 30px;
     /* border: solid red 2px; */
     -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px #324456; 
     box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px #324456;
