@@ -14,8 +14,7 @@ const About = () => {
             <p>
               Alt startet 7 mars 2022 med enkel HTML og har raskt gått videre til react og nylig nodeJS.
               Jeg er en velorganisert person, en problemløser og en god teamplayer med god oppmerksomhet for detaljer. Fan av fotball, spiller en del mmo spill og digger syfy/adventure filmer. 
-              En familieorientert person og far til 2 rakkerunger.
-              Interessert i hele …….. delen og jobber med ambisiøse prosjekter med positive kolleger  
+              En familieorientert person og far til 2 rakkerunger. 
               La oss lage noe sammen
             </p>
           </article>
