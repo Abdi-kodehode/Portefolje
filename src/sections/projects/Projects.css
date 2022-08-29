@@ -1,0 +1,39 @@
+#projectsSection p {
+    max-width: 700px;
+    margin-bottom: 2rem;
+}
+
+.projectContainer {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: 80vw;
+    height: 50vh;
+}
+
+
+.projectCard {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+img {
+    width: 89%;
+    height: 100%;
+    object-fit: contain;
+    margin: 15px 7px;
+}
+
+.projectContainer a {
+    display: inline-block;
+    width: 100px;
+    background: #7190af;
+    padding: 7px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    margin: 7px;
+    text-decoration: none;
+}

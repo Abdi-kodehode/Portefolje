@@ -1,0 +1,10 @@
+#aboutSection {
+    color: #2c3e50;
+}
+
+.aboutContainer {
+    margin: 0 auto;
+    padding-bottom: 200px;
+    font-size: larger;
+    width: 70%;
+}
