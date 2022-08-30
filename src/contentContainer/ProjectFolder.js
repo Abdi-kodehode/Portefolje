@@ -21,8 +21,8 @@ export const ProjectFolder = [
             <SiHtml5 size={30} color='#e75000' />, 
             <SiCss3 size={30} color='#1572b6' />
         ],
-        repo: "https://github.com/Abdi-kodehode/KodeHode/tree/main/Lekser/animation",
-        githublink: "https://abdi-kodehode.github.io/KodeHode/Lekser/animation/"
+        repo: "https://github.com/Abdi-kodehode/KodeHode/tree/main/animation",
+        githublink: "https://abdi-kodehode.github.io/KodeHode/animation/"
     },
     {
         id: 2,
@@ -34,8 +34,8 @@ export const ProjectFolder = [
             <SiCss3 size={30} color='#1572b6' />,
             <SiJavascript size={30} color='yellow' />
         ],
-        repo: "https://github.com/Abdi-kodehode/KodeHode/tree/main/Lekser/Many_numbers",
-        githublink: "https://abdi-kodehode.github.io/KodeHode/Lekser/Many_numbers/"
+        repo: "https://github.com/Abdi-kodehode/KodeHode/tree/main/challenge-by-endre",
+        githublink: "https://abdi-kodehode.github.io/KodeHode/challenge-by-endre/"
     },
     // {
     //     id: 3,
@@ -60,8 +60,8 @@ export const ProjectFolder = [
             <SiCss3 size={30} color='#1572b6' />,
             <SiJavascript size={30} color='yellow' />
         ],
-        repo: "https://github.com/Abdi-kodehode/KodeHode/tree/main/Lekser/Drumkit_project",
-        githublink: "https://abdi-kodehode.github.io/KodeHode/Lekser/Drumkit_project/"
+        repo: "https://github.com/Abdi-kodehode/KodeHode/tree/main/Drumkit",
+        githublink: "https://abdi-kodehode.github.io/KodeHode/Drumkit/"
     },
     {
         id: 5,
@@ -73,8 +73,8 @@ export const ProjectFolder = [
             <SiCss3 size={30} color='#1572b6' />,
             <SiJavascript size={30} color='yellow' />
         ],
-        repo: "https://github.com/Abdi-kodehode/KodeHode/tree/main/Lekser/Easter_task_2022",
-        githublink: "https://abdi-kodehode.github.io/KodeHode/Lekser/Easter_task_2022/"
+        repo: "https://github.com/Abdi-kodehode/KodeHode/tree/main/Easter-tast-2022",
+        githublink: "https://abdi-kodehode.github.io/KodeHode/Easter-tast-2022/"
     },
     // {
     //     id: 6,
@@ -121,8 +121,8 @@ export const ProjectFolder = [
         skill: [
             <SiReact size={30} color='#61dafb' />
         ],
-        repo: "https://github.com/Abdi-kodehode/KodeHode/tree/main/Lekser/Shopping_Cart",
-        githublink: "https://abdi-kodehode.github.io/KodeHode/Lekser/Shopping_Cart/build/"
+        repo: "https://github.com/Abdi-kodehode/KodeHode/tree/main/shopping-cart-react",
+        githublink: "https://abdi-kodehode.github.io/KodeHode/shopping-cart-react/build/"
     },
     {
         id: 10,
@@ -134,8 +134,8 @@ export const ProjectFolder = [
             <SiCss3 size={30} color='#1572b6' />,
             <SiJavascript size={30} color='yellow' />
         ],
-        repo: "https://github.com/Abdi-kodehode/KodeHode/tree/main/Lekser/PokemonAPI",
-        githublink: "https://abdi-kodehode.github.io/KodeHode/Lekser/PokemonAPI/"
+        repo: "https://github.com/Abdi-kodehode/KodeHode/tree/main/PokemonAPI",
+        githublink: "https://abdi-kodehode.github.io/KodeHode/PokemonAPI/"
     },
     // {
     //     id: 11,

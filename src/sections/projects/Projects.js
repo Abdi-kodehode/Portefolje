@@ -12,6 +12,7 @@ const Projects = () => {
         {ProjectFolder.map((project) => (
           <div key={project.id} className="projectCard">
             <img src={project.image} alt="projects" />
+            <p>{project.title}</p>
             <p>{project.skill}</p>
             <p>
               <a href={project.repo} rel="noreferrer" target="_blank"><SiGithub /></a> 

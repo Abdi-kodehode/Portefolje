@@ -5,7 +5,7 @@ const Home = () => {
     <section id="homeSection">
       <div className='intro'>
         <h2>Abdi Fatah Hersi</h2>
-        <p>Jeg er en entusiastisk web-utvikler fra stavanger</p>
+        <p>Jeg er en entusiastisk web-utvikler fra Stavanger</p>
       </div>
     </section>
   )
