@@ -16,3 +16,9 @@
 .iconBar a:hover {  
     transform: scale(125%);
 }
+
+@media screen and (max-width:768px) {
+    .iconBar {
+      width: 10px;
+    }
+  }

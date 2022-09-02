@@ -2,9 +2,15 @@
     color: #2c3e50;
 }
 
+#aboutSection h2 {
+    margin-bottom: 2rem;
+}
+
 .aboutContainer {
     margin: 0 auto;
-    padding-bottom: 200px;
+    padding-bottom: 20px;
     font-size: larger;
-    width: 70%;
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-around;
 }

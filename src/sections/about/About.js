@@ -1,12 +1,13 @@
+import DoughnutChart from '../../component/DoughnutChart';
 import './About.css';
 
-
 const About = () => {
+
   return (
     <section id="aboutSection">
       <h2>Om meg</h2>
       <div className='aboutContainer'>
-        <div>
+        <div className='aboutText'>
           <article>
             <p>
               Hei, jeg er Abdi. Jeg er en webutvikler, interessert i alt som har med fullstack delen og spesielt backend. Å se koden du har skrevet bli til noe var det som inspirerte meg til å begynne på kodehode.
@@ -21,7 +22,9 @@ const About = () => {
             </p>
           </article>
         </div>
-
+        <div className='aboutImg'>
+          <DoughnutChart />
+        </div>
       </div>
     </section>
   )

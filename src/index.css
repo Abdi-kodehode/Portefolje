@@ -32,9 +32,17 @@ section {
   flex-direction: column;
   height: 100vh;
   color: white;
+  margin-bottom: 3rem;
 }
 
 section h2 {
   font-size: 5rem;
-  margin-bottom: 2rem;
+  /* margin-bottom: 2rem; */
+}
+
+@media screen and (max-width:768px) {
+  section {
+    width: 390px;
+  }
+ 
 }
