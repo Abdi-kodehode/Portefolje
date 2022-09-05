@@ -10,15 +10,13 @@ const About = () => {
         <div className='aboutText'>
           <article>
             <p>
-              Hei, jeg er Abdi. Jeg er en webutvikler, interessert i alt som har med fullstack delen og spesielt backend. Å se koden du har skrevet bli til noe var det som inspirerte meg til å begynne på kodehode.
+              Hei, Abdi her. Jeg er en webutvikler, interessert i alt som har med fullstack å gjøre og spesielt backend. Å se koden du har skrevet bli til noe, var det som inspirerte meg til å begynne med koding.
             </p><br />
             <p>
-              Alt startet 7 mars 2022, med ingen forkunnskap for frontend eller noe webutvikling. Ved å følge opplegget som var satt opp av kodehode så var det rett fram og oversiktlig. HTML, CSS, JavaScript samt React har gått ganske stødig. Startet nylig med node JS og har fått sansen for backend. 
+              I Mars 2022, fikk jeg muligheten til å starte på kurset; <i>Kodehode</i>. I løpet av kurset har jeg tilegnet meg masse ny kunnskap, der i blant HTML/CSS, JavaScript og React. Kurset har vært med på å utvikle meg fra en med lite kode kunnskap til en med masse kode kunnskap. Nylig startet jeg med Node.js, og det ga meg virkelig sansen for backend. 
             </p><br />
             <p>
-              Ellers er jeg en velorganisert person, en problemløser og en god teamplayer med god oppmerksomhet for detaljer. På fritiden spiller jeg en del mmorpg spill og digger syfy/adventure filmer. 
-              En familieorientert person og far til 2 rakkerunger. 
-              La oss lage noe sammen
+              Ellers er jeg en velorganisert person, en problemløser og en god teamplayer med øye for detaljer. På fritiden spiller jeg en del mmorpg spill og digger sci-fi/adventure filmer. Jeg er familieorientert og far til 2 rakkerunger. La oss lage noe sammen.
             </p>
           </article>
         </div>
